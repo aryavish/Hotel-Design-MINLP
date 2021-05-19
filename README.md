@@ -49,7 +49,7 @@ computed[^3].
 
 We thus define the objective function for the Study as follows[^4]:
 
-![](media/image1.png){width="6.5in" height="0.857891513560805in"}
+![](media/image1.png)
 
 By simple inspection we note the objective function is multivariate,
 nonlinear and non-convex since various decision variables interact with
