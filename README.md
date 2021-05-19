@@ -124,8 +124,7 @@ the per unit natural log change in price[^7].
 
 **Obtaining an Optimal Solution**
 
-The MINLP model was formulated in MS Excel and solved using the GRG
-Nonlinear solver algorithm in approximately three minutes. An optimal
+The MINLP model was formulated in Python Gurobi and solved in approximately 3 seconds. An optimal
 solution was found that maximized NOI to approximately \$26.5MM with a
 room type composition for single, double and suite rooms of 50%, 25%,
 and 25% respectively, in comparison to the competitive set of 40%, 40%,
@@ -169,8 +168,9 @@ buildable square feet. Additional decision variables such as penalty
 costs for non-utilized buildable square feet and alternative leasing
 revenue for non-utilized buildable square feet, where applicable in the
 building design, can be introduced into the model to better maximize
-building efficiency and achieve more widespread adoption of mathematical
-optimization in the commercial real estate development industry.
+building efficiency.  Use of Bender's Decomposition rather than LP model relaxation
+can help achieve better upper bounds on the maximum achievable NOI rather than LP relaxation
+which tends to produce poor upper bounds under a MINLP optimization.
 
 **Appendix 1 -- NPS Formulation**
 
