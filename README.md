@@ -59,7 +59,7 @@ We define the relevant constraint functions below that serve to create
 the convex hull of feasible solutions and provide a brief discussion of
 each[^5].
 
-![](media\image2.png){width="6.5in" height="3.176591207349081in"}
+![](media/image2.png){width="6.5in" height="3.176591207349081in"}
 
 Constraints (C01 and C02) limit the quantity of hotel room types and
 number of restaurants and meeting rooms the property can build subject
@@ -98,7 +98,7 @@ previously commissioned market study and appraisal for a similar asset
 in the same submarket, six hotel competitors were identified as
 follows[^6]:
 
-![](media\image3.png){width="5.009015748031496in"
+![](media/image3.png){width="5.009015748031496in"
 height="0.798507217847769in"}
 
 Thus, the *mean_roomprice~i~* for the hotel in the Study was taken as
@@ -175,9 +175,9 @@ optimization in the commercial real estate development industry.
 
 **Appendix 1 -- NPS Formulation**
 
-![](media\image4.png){width="6.325694444444444in" height="7.5in"}
+![](media/image4.png){width="6.325694444444444in" height="7.5in"}
 
-![](media\image5.png){width="6.5in" height="3.877192694663167in"}
+![](media/image5.png){width="6.5in" height="3.877192694663167in"}
 
 [^1]: Moglidiani & Miller, Proposition II
 
