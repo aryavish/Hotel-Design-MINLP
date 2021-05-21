@@ -1,4 +1,4 @@
-**Application of Mixed Integer Non-Linear Optimization in Commercial
+**Application of Mixed Integer Non-Linear Optimization in Hotel Building Design, Commercial
 Real Estate Development**
 
 **Introduction**
